@@ -16,5 +16,5 @@
 首先小组成员学习了基于pytorch的深度学习框架搭建方法 
 学习资料如下：
 
-Learn PyTorch for deep learning in a day. Literally.：https://www.youtube.com/watch?v=Z_ikDlimN6A&t=86381s 课程时间（25h）
+Learn PyTorch for deep learning in a day. Literally.：https://www.youtube.com/watch?v=Z_ikDlimN6A&t=86381s 课程时间（25h） 参考教材 https://www.learnpytorch.io/
 
