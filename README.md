@@ -1,4 +1,6 @@
 # CyberSecurity-Design-of-Bit
+# 项目说明
+
 将项目在github开源呈现，便于小组二人远程更新工作内容
 
 项目主题：生成图样对抗与ai安全
@@ -22,3 +24,5 @@
 
 Learn PyTorch for deep learning in a day. Literally.：https://www.youtube.com/watch?v=Z_ikDlimN6A&t=86381s 课程时间（25h） 参考教材 https://www.learnpytorch.io/
 
+
+# 对抗样本攻击
