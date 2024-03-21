@@ -38,15 +38,16 @@ Learn PyTorch for deep learning in a day. Literally.：https://www.youtube.com/w
 只要做到将模型结果误导到其他错误的类别（简单）
 ## 按攻击环境分类
 ### 白盒攻击 White-Box Attack
-已知目标模型所有
-
-
+攻击者已知目标模型所有知识的情况下生成对抗图样的攻击手段
 
 
 
 ### 黑盒攻击 Black-Box Attack
+攻击者不知道模型任何内部信息的情况下实施的攻击方案
 
+### 数字世界攻击 Digital Attack
+假定可以直接访问并修改AI系统的数字输入
 
-
-
+### 物理世界攻击 Physical Attack
+输入是从真实世界的采集设备中而传入系统
 
