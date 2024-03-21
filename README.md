@@ -25,4 +25,28 @@
 Learn PyTorch for deep learning in a day. Literally.：https://www.youtube.com/watch?v=Z_ikDlimN6A&t=86381s 课程时间（25h） 参考教材 https://www.learnpytorch.io/
 
 
-# 对抗样本攻击
+# 对抗样本攻击定义
+## 对抗样本攻击的定义
+攻击者通过在**干净样本**中添加人们难以察觉的细微扰动，使图像识别系统以较高置信度出现攻击者想要的任意错误结果
+## 对抗样本的定义
+添加细微扰动后的干净样本称为对抗样本
+# 对抗样本攻击的分类
+## 按照攻击后效果分类
+### 定向攻击 Targeted Attack
+定向攻击要做到既降低模型对输入样本真实标签的置信度，又要提升攻击者指定标签的置信度（困难）
+### 非定向攻击 Non-Targeted Attack
+只要做到将模型结果误导到其他错误的类别（简单）
+## 按攻击环境分类
+### 白盒攻击 White-Box Attack
+已知目标模型所有
+
+
+
+
+
+### 黑盒攻击 Black-Box Attack
+
+
+
+
+
